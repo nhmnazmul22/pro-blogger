@@ -1,0 +1,13 @@
+1. Create React App with Vite
+2. Organized File/Folder for React app
+3. Install Necessary Packages 
+  - Redux and Redux toolkit ---> Props manges
+  - Appwrite ---> As a Backend and Database
+  - tinymce ---> Text Editor Field
+  - Html-React-parser ----> 
+  - react-hook-form ---> Build Organized React Form
+4. Understand how to use .evn file in vite
+5. Set Up Environment Variables
+6. Define Appwrite Services
+  - Auth Services
+  - Database Services 
