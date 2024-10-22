@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+todo.txt
 
 # Editor directories and files
 .vscode/*
@@ -22,5 +23,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-todo.txt
-.env
+*.env
