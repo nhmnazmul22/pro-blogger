@@ -11,4 +11,7 @@
 6. Define Appwrite Services
   - Auth Services
   - Database Services 
+  - Bucket Services
+7. Creating Redux toolkit Store
+8. Creating Auth Slice and Reducers
   
