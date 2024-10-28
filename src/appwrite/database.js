@@ -133,3 +133,8 @@ export class DatabaseService {
     return this.bucket.getFilePreview(config.appwriteBucketId, fileId);
   }
 }
+
+//===> Define Database Object
+const dataBase = new DatabaseService();
+
+export default dataBase;
